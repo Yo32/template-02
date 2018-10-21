@@ -1,0 +1,29 @@
+#head {
+  background-color: rgb(255, 238, 0);
+  height: 15%;
+  text-align: center;
+}
+#nav {
+  background-color: rgb(255, 238, 0);
+  float: left;
+  text-align: center;
+  height: 100%;
+  width: 15%;
+  margin-top: 15px;
+  margin-right: 15px;
+}
+#RS {
+  margin: 0px;
+  padding: 0px;
+  float: right;
+  background-color: rgb(255, 0, 234);
+  width: 83%;
+  height: 100%;
+  margin-top: 15px;
+}
+#art {
+  float: left;
+  background-color: rgb(255, 238, 0);
+  width: 70%;
+  height: 65%;
+}
